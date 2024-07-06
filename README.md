@@ -4,7 +4,7 @@ Se uso el modelo cliente servidor implementado en el lenguaje de programación P
 
 <h1>Objetivo</h1>
 
-Se simulo el paso de vehiculos a traves de un puente usando como ejemplo el puente de Brooklyn.
+Se simulo el paso de vehiculos a través de un puente usando como ejemplo el puente de Brooklyn.
 
 <h1>Funcionalidades </h1>
 

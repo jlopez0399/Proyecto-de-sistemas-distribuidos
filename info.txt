@@ -1,0 +1,15 @@
+Direccion: Sentido en el que el auto recorre el puente, 
+solo puede tomar dos valores <Brooklyn> <Manhattan>.
+
+Velocidad: La velocidad debe ser un valor entero positivo, 
+es decir un valor mayor a cero y sin decimales, ademas
+de eso, un auto de uso paticular no deberia exceder los 
+120 km/h, por lo tanto tambien se hizo la validacion 
+correspondiente.
+
+
+Elaborado por:
+Manuel Moreno
+Julian Lopez
+
+                        Sistemas Distribuidos
